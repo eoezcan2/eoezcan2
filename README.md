@@ -15,30 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Emre!</h1>
-<p align="center">
-</p>
-<h3><u>Personal Details</u></h3>
-<p align="center">
+<h1>Hello, I'm Emre!</h1>
+<p>
 
- - Passionate CS student
- 
- - On my way to fulfill my Java knowledge
- 
+ - CS student at the [TGM](https://www.tgm.ac.at/)
+ - Currently 17 years old
+ - Passionate at programming
  - My hobbies are reading books, working out and playing games.
 
- - Sometimes I automate tasks for personal use
- 
- - I love to collect games on various game plattforms
-
- - Additionally I've a lot of experience in Minecraft Plugin coding
-
 </p>
 
-<br>
-
-<h3 align="center"><u>Skills</u></h3>
-<p style="display: inline-block;" align="center">
+<h3><u>Skills</u></h3>
+<p>
   <kbd>
     <kbd>Front-end</kbd>
     <br>
@@ -90,16 +78,15 @@ Here are some ideas to get you started:
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" />
     <img width="30px" src="https://cdn-icons-png.flaticon.com/512/2/2235.png" />
-    
   </kbd>
 </p>
 
 <h3><u>My biggest Projects</u></h3>
 
-| Name                  | Year                                                |
-| ---------------------------------|--------------------------------------------------------------- |
-| _[LazerShock](https://github.com/manuthebyte/lazershock)_            | 2022             |
-| _[Flowvision](https://github.com/flowvision-ai/flowvision-app)_                          | 2023     |
+| Name                  | Year                     | Description                          |
+| ---------------------------------|---------------------------------------------------------------|----------------|
+| _[LazerShock](https://github.com/manuthebyte/lazershock)_            | 2022    | Multiplayer Lasertag Game         |
+| _[Flowvision](https://github.com/flowvision-ai/flowvision-app)_                          | 2023    | AI Editor     |
 
 ------
 
