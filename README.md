@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <h2 align="center"><u>Personal Details</u></h2>
 <p align="center">
 
- - I'm on my way to perfect my Java skills
+ - On my way to fulfill my Java knowledge
  
- - My hobby is reading books, working out and playing games.
+ - My hobbies are reading books, working out and playing games.
 
  - Sometimes I automate tasks for personal use
  
@@ -89,18 +89,12 @@ Here are some ideas to get you started:
   </kbd>
 </p>
 
-<h2 align="center"><u>My Best Works</u></h2>
+<h2 align="center"><u>My biggest Projects</u></h2>
 
-| Name                  | Description                                                |
+| Name                  | Year                                                |
 | ---------------------------------|--------------------------------------------------------------- |
-| _[Repository Readme Generator](https://github.com/KasRoudra/repository-readme-generator)_            | Generate a beautiful Readme.md for your repository.             |
-| _[PyPhisher](https://github.com/KasRoudra/pyphisher)_                          | Ultimate phishing tool in python with 64 website templates.     |
-| _[YT-Downloader](https://github.com/KasRoudra/YT-Downloader)_                  | Download youtube audio or videos from command line.             |
-| _[MusPlayer](https://github.com/KasRoudra/MusPlayer)_                         | Play music in termux by mpv.                                     |
-| _[Messenger-Desktop](https://github.com/KasRoudra/messengerdesktop)_           |  Messenger in desktop mode for easy file sharing.                |
-| _[K-Fuscator](https://github.com/KasRoudra/k-fuscator)_                       | Encrypt or decrypt shell script and compile python scripts       |
-| _[CamHacker](https://github.com/KasRoudra/CamHacker)_                         | Hack anyone's camera with a phishing link.                       |
-| _[Local2Internet](https://github.com/KasRoudra/Local2Internet)_               | Expose locally hosted website into all over internet.            |
+| _[LazerShock](https://github.com/manuthebyte/lazershock)_            | 2022             |
+| _[Flowvision](https://github.com/flowvision-ai/flowvision-app)_                          | 2023     |
 <h4 align="center">All of these are open source!</h4>
 
 <h2 align="center"><u>My Github Stats</u></h2>
