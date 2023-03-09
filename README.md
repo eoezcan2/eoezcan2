@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <h1>Hello, I'm Emre!</h1>
 <p>
 
- - CS student at the [TGM](https://www.tgm.ac.at/)
- - Currently 17 years old
- - Passionate at programming
- - My hobbies are reading books, working out and playing games.
+ - 🎓 CS student at the [TGM](https://www.tgm.ac.at/)
+ - 🧑 Currently 17 years old
+ - 💻 Passionate at programming
+ - 💪 My hobbies are reading books, working out and playing games.
 
 </p>
 
@@ -35,7 +35,6 @@ Here are some ideas to get you started:
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" />
   </kbd>
   <kbd>
     <kbd>Frontend</kbd>
@@ -52,7 +51,9 @@ Here are some ideas to get you started:
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" />
     <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" title="Spring" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" />
   </kbd>
+  <br>
   <kbd>
     <kbd>App</kbd>
     <br>
@@ -71,9 +72,8 @@ Here are some ideas to get you started:
     <kbd>Tools</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" />
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" title="IntelliJ" />
-    <img width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" title="Eclipse" />
+    <img width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Docker" />
   </kbd>
   <kbd>
     <kbd>OS</kbd>
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
   </kbd>
 </p>
 
-<h3><u>My Projects</u></h3>
+<h3><u>Projects</u></h3>
 
 | Name                  | Year                     | Description                          |
 | ---------------------------------|---------------------------------------------------------------|----------------|
