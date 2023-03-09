@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 <br>
 
+<h3 align="center"><u>Skills</u></h3>
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
