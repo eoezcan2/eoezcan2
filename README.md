@@ -88,10 +88,11 @@ Here are some ideas to get you started:
 
 <h3><u>Projects</u></h3>
 
-| Name                  | Year                     | Description                          |
+| Name                  | Years                     | Description                          |
 | ---------------------------------|---------------------------------------------------------------|----------------|
+| _[BePart](https://github.com/manuthebyte/bepart-backend)_ | 2023 | Mood Tracker for [dieBerater](https://dieberater.com/) |
+| _[Flowvision](https://github.com/flowvision-ai/flowvision-app)_                          | 2022 - 2023    | AI Editor     |
 | _[LazerShock](https://github.com/manuthebyte/lazershock)_            | 2022    | Multiplayer Lasertag Game         |
-| _[Flowvision](https://github.com/flowvision-ai/flowvision-app)_                          | 2023    | AI Editor     |
 
 ------
 <a href="https://www.linkedin.com/in/emre-%C3%B6zcan-aa083b25b/"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" title="LinkedIn" /></a>
