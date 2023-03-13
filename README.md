@@ -61,6 +61,7 @@ Here are some ideas to get you started:
     <br>
     <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" title="Flutter" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" />
+    <img width="30px" src="https://mllmu3qmmprr.i.optimole.com/w:auto/h:auto/q:mauto/f:avif/https://www.japancodingclub.com/en/wp-content/uploads/2022/08/swift.png" title="Swift" />
   </kbd>
   <kbd>
     <kbd>Game</kbd>
