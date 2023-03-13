@@ -97,4 +97,4 @@ Here are some ideas to get you started:
 ------
 <a href="https://www.linkedin.com/in/emre-%C3%B6zcan-aa083b25b/"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" title="LinkedIn" /></a>
 
-Last Edited on: 03/11/2023
+Last Edited on: 03/13/2023
