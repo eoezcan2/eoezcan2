@@ -33,9 +33,7 @@ Here are some ideas to get you started:
     <br>
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
-    <img width="30px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" />
   </kbd>
   <kbd>
     <kbd>Frontend</kbd>
@@ -50,24 +48,13 @@ Here are some ideas to get you started:
     <kbd>Backend</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" />
     <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" title="Spring" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" />
   </kbd>
   <br>
-  <kbd>
-    <kbd>App</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" title="Flutter" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" />
-    <img width="30px" src="https://mllmu3qmmprr.i.optimole.com/w:auto/h:auto/q:mauto/f:avif/https://www.japancodingclub.com/en/wp-content/uploads/2022/08/swift.png" title="Swift" />
-  </kbd>
   <kbd>
     <kbd>Game</kbd>
     <br>
     <br>
-    <img width="30px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" title="Unity" />
     <img width="30px" src="https://static.spigotmc.org/img/spigot-og.png" title="SpigotMC" />
   </kbd>
   <kbd>
