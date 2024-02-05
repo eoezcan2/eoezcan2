@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 <p>
 
  - 🎓 CS student at the [TGM](https://www.tgm.ac.at/)
- - 🧑 Currently 17 years old
+ - 🧑 Currently 18 years old
  - 💻 Passionate at programming
- - 💪 My hobbies are reading books, working out and playing games.
 
 </p>
 
@@ -41,12 +40,14 @@ Here are some ideas to get you started:
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML"/> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS"/> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/svelte/svelte-original.svg" title="Svelte" />
   </kbd>
   <kbd>
     <kbd>Backend</kbd>
     <br>
     <br>
     <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" title="Spring" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg" title="Firebase" />
   </kbd>
   <br>
   <kbd>
@@ -76,6 +77,7 @@ Here are some ideas to get you started:
 
 | Name                  | Years                     | Description                          |
 | ---------------------------------|---------------------------------------------------------------|----------------|
+| _[Flow](https://github.com/eoezcan2/flowapi)_ | 2024 | AI Meditations App for iOS and Android |
 | _[BePart](https://github.com/manuthebyte/bepart-backend)_ | 2023 | Mood Tracker for [dieBerater](https://dieberater.com/) |
 | _[Flowvision](https://github.com/flowvision-ai/flowvision-app)_                          | 2022 - 2023    | AI Editor     |
 | _[LazerShock](https://github.com/manuthebyte/lazershock)_            | 2022    | Multiplayer Lasertag Game         |
@@ -83,4 +85,4 @@ Here are some ideas to get you started:
 ------
 <a href="https://www.linkedin.com/in/emre-%C3%B6zcan-aa083b25b/"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" title="LinkedIn" /></a>
 
-Last Edited on: 03/13/2023
+Last Edited on: 02/05/2024
