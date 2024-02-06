@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 | Name                  | Years                     | Description                          |
 | ---------------------------------|---------------------------------------------------------------|----------------|
-| _[Flow](https://github.com/eoezcan2/flowapi)_ | 2024 | AI Meditations App for iOS and Android |
+| _[Flow](https://github.com/eoezcan2/flowapp-api)_ | 2024 | AI Meditations App for iOS and Android |
 | _[BePart](https://github.com/manuthebyte/bepart-backend)_ | 2023 | Mood Tracker for [dieBerater](https://dieberater.com/) |
 | _[Flowvision](https://github.com/flowvision-ai/flowvision-app)_                          | 2022 - 2023    | AI Editor     |
 | _[LazerShock](https://github.com/manuthebyte/lazershock)_            | 2022    | Multiplayer Lasertag Game         |
