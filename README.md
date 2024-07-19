@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h1>Hello, I'm Emre!</h1>
 <p>
 
- - 🎓 CS student at the [TGM](https://www.tgm.ac.at/)
- - 🧑 Currently 18 years old
+ - 🎓 Graduated from [TGM](https://www.tgm.ac.at/)
+ - 🧑 Currently 19 years old
  - 💻 Passionate at programming
 
 </p>
@@ -85,4 +85,4 @@ Here are some ideas to get you started:
 ------
 <a href="https://www.linkedin.com/in/emre-%C3%B6zcan-aa083b25b/"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" title="LinkedIn" /></a>
 
-Last Edited on: 02/05/2024
+Last Edited on: 19/07/2024
