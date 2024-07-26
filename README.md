@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <p>
 
  - 🎓 Graduated from [TGM](https://www.tgm.ac.at/) in 2024
- - 🧑 Currently 19 years old
  - 📍 Started by creating Minecraft Plugins
  - ✍️ Developing Website and Mobile-App Experiences
 
@@ -86,4 +85,4 @@ Here are some ideas to get you started:
 ------
 <a href="https://www.linkedin.com/in/emre-%C3%B6zcan-aa083b25b/"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" title="LinkedIn" /></a>
 
-Last Edited on: 25/07/2024
+Last Edited on: 26/07/2024
